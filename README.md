@@ -1,2 +1,2 @@
 # lightBulb
-Can be on/off using JS
+Can be turned on/off using JS
